@@ -11,7 +11,7 @@ This repository is intended to be a guide to connect to a
  
  Use the package manager [pip](https://pip.pypa.io/en/stable/) to install spotipy.
  ```
-pip install foobar
+pip install spotipy
 ``` 
 
 ## Getting Started
