@@ -19,11 +19,11 @@ pip install foobar
 You first need to head over to [Spotify for Developers](https://developer.spotify.com/) and navigate to the dashboard. From there, log into your spotify account
 if you haven't already done so, and click **Create An App.**
 
-![](app .gif)
+![](app.gif)
  
 Follow the instructions and you should get to a screen that has your client id and client secret. After this there's just a couple more steps.
 Click on Edit Settings and under **Redirect URIs** add http://localhost/.
 
-![](redire ct.gif)
+![](redirect.gif)
 
 Now you're going to need these values to connect to your account. Now go check out the quickstart jupyter notebook to get started.
