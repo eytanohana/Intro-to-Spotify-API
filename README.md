@@ -13,7 +13,7 @@ This repository is intended to be a guide to connect to a
  ```
 pip install spotipy
 ``` 
-The complete documentation for `spotipy` can be found [here](https://spotipy.readthedocs.io/en/latest/)
+The complete documentation for `spotipy` can be found [here](https://spotipy.readthedocs.io/en/latest/){target="_blank"}
 
 ## Getting Started
 
